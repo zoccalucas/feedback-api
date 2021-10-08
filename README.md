@@ -17,8 +17,8 @@ Nesta API é possível realizar as seguintes funções:
 - Listar os elogios por usuário.
 
 Autenticação:
--Autenticação de usuário a partir de um token JWT;
--Validação de login do usuário nas rotas necessárias.
+- Autenticação de usuário a partir de um token JWT;
+- Validação de login do usuário nas rotas necessárias.
 
 ## ⚙ Tecnologias utilizadas:
 
