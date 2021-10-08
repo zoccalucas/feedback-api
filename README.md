@@ -39,4 +39,4 @@ Foi instalado e configurado o [ESLint](https://eslint.org/) e o [Prettier](https
 4. Acesse a pasta do projeto e execute o comando `yarn` para instalar todas às dependências;
 5. Rode `yarn typeorm migration:run` para criar as tabelas do banco de dados;
 6. Assim que a instalação terminar, digite o comando `yarn dev`;
-   OBS: A API estará rodando na porta 3000 (caso a porta esteja em uso altere-a em `server.ts`);
+   OBS: A API estará rodando na porta 3000 (caso a porta esteja em uso altere-a em `server.ts`).
