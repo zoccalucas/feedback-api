@@ -29,7 +29,7 @@ Para a criação desta API, foram usadas às seguintes dependências:
 - [TypeORM](https://typeorm.io/#/) (Para o DB SQL);
 - [JSONWebToken](https://github.com/auth0/node-jsonwebtoken#readme)
 
-Foi instalado e configurado o [ESLint](https://eslint.org/) e o [Prettier](https://prettier.io/) para manter o código limpo e padronizado.
+Foi instalado e configurado o [Prettier](https://prettier.io/) para manter o código limpo e padronizado.
 
 ## 📁 Como executar o projeto:
 
