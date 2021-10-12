@@ -1,6 +1,6 @@
 # 🚀 NLW6
 
-Projeto realizada através da 5° edição da NLW (Next Level Week), promovido pela Rocketseat.
+Projeto realizado através da 5° edição da NLW (Next Level Week), promovido pela Rocketseat.
 
 ## 👨‍💻 Projeto:
 
