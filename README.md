@@ -5,7 +5,8 @@ Projeto realizada através da 5° edição da NLW (Next Level Week), promovido p
 ## 👨‍💻 Projeto:
 
 API de uma plataforma para promover o reconhecimento entre companheiros de equipe, através de elogios/feedbacks.
-Permite cadastrar usuários comuns e usuários administradores, tags e elogios entre usuários.
+Permite cadastrar usuários comuns e usuários administradores, tags e elogios entre usuários. Também, autentica o usuário através do token JWT para verificar a permissão de acesso às rotas específicas.
+
 
 Nesta API é possível realizar as seguintes funções:
 
@@ -26,7 +27,8 @@ Para a criação desta API, foram usadas às seguintes dependências:
 
 - [Express](https://expressjs.com/pt-br/);
 - [TypeScript](https://www.typescriptlang.org/);
-- [TypeORM](https://typeorm.io/#/) (Para o DB SQL);
+- [TypeORM](https://typeorm.io/#/);
+- [SQLite](https://www.sqlite.org/index.html);
 - [JSONWebToken](https://github.com/auth0/node-jsonwebtoken#readme)
 
 Foi instalado e configurado o [Prettier](https://prettier.io/) para manter o código limpo e padronizado.
