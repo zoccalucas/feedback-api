@@ -40,5 +40,5 @@ Foi instalado e configurado o [Prettier](https://prettier.io/) para manter o có
 3. Clone o repositório;
 4. Acesse a pasta do projeto e execute o comando `yarn` para instalar todas às dependências;
 5. Rode `yarn typeorm migration:run` para criar as tabelas do banco de dados;
-6. Assim que a instalação terminar, digite o comando `yarn dev`; <b>
-*OBS: A API estará rodando na porta 3333 (caso você não tenha setado uma variável de ambiente).*
+6. Assim que a instalação terminar, digite o comando `yarn dev`; 
+  *OBS: A API estará rodando na porta 3333 (caso você não tenha setado uma variável de ambiente).*
